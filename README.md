@@ -13,4 +13,4 @@
 
 
 
-[![Gurmanpreets's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mkn01)](https://github.com/Mkn01/github-readme-stats)
+
