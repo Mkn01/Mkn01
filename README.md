@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [my-e-commerce](https://github.com/Mkn01/my-e-commerce)
 
-- 🌱 I’m currently learning **MUI,React**
+- 🌱 I’m currently learning **MUI**
 
 - 👨‍💻 All of my projects are available at [https://mkn01.github.io/react-portfolio/](https://mkn01.github.io/react-portfolio/)
 
