@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gurmanpreet Nagra</h1>
-<h3 align="center">A Junior full-stack developer</h3>
+<h3 align="center"> Junior frontend developer</h3>
 
 
 
