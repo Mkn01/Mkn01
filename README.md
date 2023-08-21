@@ -1,13 +1,5 @@
-<h1 align="center">Hi 👋, I'm Gurmanpreet Nagra</h1>
-<h3 align="center"> Junior frontend developer</h3>
+<h1 align="center">Hi 👋, I'm Manpreet Nagra</h1>
 
-
-
-- 🔭 I’m currently working on [my-e-commerce](https://github.com/Mkn01/my-e-commerce)
-
-- 🌱 I’m currently learning **MUI**
-
-- 👨‍💻 All of my projects are available at [https://mkn01.github.io/react-portfolio/](https://mkn01.github.io/react-portfolio/)
 
 - 📫 How to reach me **gurmanpreetnagra@gmail.com**
 
